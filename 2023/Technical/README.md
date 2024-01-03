@@ -19,7 +19,7 @@ Damian Edwards Safia Abdalla David Fowler Gaurav Seth Daniel Roth Glenn Condron 
 .NET 8 is here! Find out what is new for .NET developers across all workloads including cloud, mobile, desktop, web, AI, IoT, and so much more.
 
 - [Video](https://www.youtube.com/watch?v=mna5fg7QGz8&amp;list=PLdo4fOcmZ0oULyHSPBx-tQzePOYlhvrAU&amp;index=1&amp;pp=iAQB)
-- [Slides]
+- [Slides](./dotNETConf2023-keynote.pptx)
 - [Demo]
 
 
