@@ -30,7 +30,7 @@ Daniel Roth Steve Sanderson
 In .NET 8 you can deliver the best web app experiences entirely in Blazor using Blazor&#x27;s convenient component model. You can build your entire web app in Blazor without the needed for writing JavaScript or mixing web frameworks. In this session you&#x27;ll see how you can use Blazor&#x27;s new server-side rendering support to power your web apps from the server for maximum performance and scalability. You&#x27;ll see how you can easily add advanced capabilities like streaming rendering and enhanced navigation &amp; form handling to further optimize the user experience. Then add rich client-side interactivity wherever it is needed using Blazor Server or Blazor WebAssembly.
 
 - [Video](https://www.youtube.com/watch?v=YwZdtLEtROA&amp;list=PLdo4fOcmZ0oULyHSPBx-tQzePOYlhvrAU&amp;index=3&amp;pp=iAQB)
-- [Slides]
+- [Slides](./Full%20stack%20web%20UI%20with%20Blazor%20in%20.NET%208/Full%20stack%20web%20UI%20with%20Blazor%20in%20.NET%208.pptx)
 - [Demo]
 
 
