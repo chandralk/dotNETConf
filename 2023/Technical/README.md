@@ -41,7 +41,7 @@ Glenn Condron David Fowler
 Kickstart your Day 1 morning at .NET Conf by diving deep into the future of cloud-native development in .NET. Get the first look at what&#x27;s new in .NET 8.0 for building high-performance, resilient services that shine on any cloud platform. See how Native AOT is a game-changer for app speed and size, and gain a new level of insight with Open Telemetry support. Don&#x27;t miss live demos and a special reveal that promises to elevate your .NET development experience to new heights!
 
 - [Video](https://www.youtube.com/watch?v=z1M-7Bms1Jg&amp;list=PLdo4fOcmZ0oULyHSPBx-tQzePOYlhvrAU&amp;index=4&amp;pp=iAQB)
-- [Slides]
+- [Slides](./Building%20Cloud%20Native%20apps%20with%20.NET%208/Building%20Cloud%20Native%20apps%20with%20.NET%208.pptx)
 - [Demo]
 
 
@@ -52,7 +52,7 @@ David Fowler Stephen Toub Jonathan Peppers
 .NET 8 has seen many improvements in performance across the entire stack. In this session, we&#x2019;ll take a tour through some of the more interesting improvements in the release and examine the positive impact they can have on your services and applications.
 
 - [Video](https://www.youtube.com/watch?v=YiOkz1x2qaE&amp;list=PLdo4fOcmZ0oULyHSPBx-tQzePOYlhvrAU&amp;index=5&amp;pp=iAQB)
-- [Slides]
+- [Slides](./Performance%20Improvements%20in%20.NET%208%2C%20ASP.NET%20Core%2C%20and%20.NET%20MAUI/Performance%20Improvements%20in%20.NET%208%2C%20ASP.NET%20Core%2C%20and%20.NET%20MAUI.pptx)
 - [Demo]
 
 
@@ -74,7 +74,7 @@ Burke Holland Leslie Richardson
 Join us for an enlightening (get it?) session on lightweight C# development with the all new C# DevKit extension and Visual Studio Code.  &#xD;&#xA;&#xD;&#xA;In this session, we&#x27;ll explore the key features of the C# Dev Kit, as well as some valuable tips and tricks for getting the most out of Visual Studio Code. Learn how to navigate your codebase with ease, utilize debugging tools effectively and map the concepts you already know onto an editor that might be new to you.  &#xD;&#xA;&#xD;&#xA;Whether you&#x27;re a seasoned developer or just starting with C#, this session will provide you with practical insights and techniques to make your C# development lightweight and efficient.  
 
 - [Video](https://www.youtube.com/watch?v=F_xe0TvXGu0&amp;list=PLdo4fOcmZ0oULyHSPBx-tQzePOYlhvrAU&amp;index=7&amp;pp=iAQB)
-- [Slides]
+- [Slides](./Packing%20light%20with%20VS%20Code%20and%20the%20C%23%20Dev%20Kit/Packing%20light%20with%20VS%20Code%20and%20the%20C%23%20Dev%20Kit.pptx)
 - [Demo]
 
 
